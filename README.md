@@ -22,4 +22,4 @@ Wireshark • Nmap • Hashcat • Evil-WinRM • Splunk • Wazuh
 Windows Event Logs • Linux Log Analysis • Network Traffic Analysis
 
 ## Goal
-SOC L1 Analyst role at an Indian MSSP or security startup.
+SOC L1 Analyst 
