@@ -1,0 +1,1 @@
+%{TIMESTAMP_ISO8601:log_timestamp} %{HOSTNAME:hostname} %{DATA:process}\[%{NUMBER:pid}\]: %{GREEDYDATA:log_message}
