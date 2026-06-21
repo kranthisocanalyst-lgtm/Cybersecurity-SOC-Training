@@ -6,8 +6,8 @@ No shortcuts — just labs, notes, and real tools.
 ## Modules
 - M1: Linux Fundamentals ✅
 - M2: Windows & Active Directory ✅
-- M3: Networking & Phishing (in progress)
-- M4: SIEM & Log Analysis (upcoming)
+- M3: Networking & Phishing 
+- M4: SIEM & Log Analysis (in progress)
 
 ## Labs Completed
 | Lab | Platform | Score |
